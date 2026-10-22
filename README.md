@@ -4,9 +4,7 @@
 
 **Software developer from Riga, Latvia 🇱🇻 — building backends, Android apps and everything in between.**
 
-<a href="https://zangormo.github.io/"><img src="assets/badges/portfolio.svg" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/ilja-birjukovs/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
-<a href="mailto:birjukovs06@gmail.com"><img src="assets/badges/email.svg" alt="birjukovs06@gmail.com"/></a>
+<a href="https://zangormo.github.io/"><img src="assets/badges/portfolio.svg" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ilja-birjukovs/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a> <a href="mailto:birjukovs06@gmail.com"><img src="assets/badges/email.svg" alt="birjukovs06@gmail.com"/></a>
 
 </div>
 
@@ -26,44 +24,23 @@
 
 **Languages**
 
-<img src="assets/badges/csharp.svg" alt="C#"/>
-<img src="assets/badges/kotlin.svg" alt="Kotlin"/>
-<img src="assets/badges/python.svg" alt="Python"/>
-<img src="assets/badges/sql.svg" alt="SQL"/>
-<img src="assets/badges/javascript.svg" alt="JavaScript"/>
-<img src="assets/badges/php.svg" alt="PHP"/>
+<img src="assets/badges/csharp.svg" alt="C#"/> <img src="assets/badges/kotlin.svg" alt="Kotlin"/> <img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/sql.svg" alt="SQL"/> <img src="assets/badges/javascript.svg" alt="JavaScript"/> <img src="assets/badges/php.svg" alt="PHP"/>
 
 **Backend**
 
-<img src="assets/badges/dotnet.svg" alt=".NET"/>
-<img src="assets/badges/rest.svg" alt="REST API"/>
-<img src="assets/badges/oracle.svg" alt="Oracle"/>
-<img src="assets/badges/sqlite.svg" alt="SQLite"/>
+<img src="assets/badges/dotnet.svg" alt=".NET"/> <img src="assets/badges/rest.svg" alt="REST API"/> <img src="assets/badges/oracle.svg" alt="Oracle"/> <img src="assets/badges/sqlite.svg" alt="SQLite"/>
 
 **Android**
 
-<img src="assets/badges/compose.svg" alt="Jetpack Compose"/>
-<img src="assets/badges/material.svg" alt="Material 3"/>
-<img src="assets/badges/hilt.svg" alt="Hilt"/>
-<img src="assets/badges/room.svg" alt="Room"/>
-<img src="assets/badges/coroutines.svg" alt="Coroutines / Flow"/>
-<img src="assets/badges/googleplay.svg" alt="Google Play"/>
+<img src="assets/badges/compose.svg" alt="Jetpack Compose"/> <img src="assets/badges/material.svg" alt="Material 3"/> <img src="assets/badges/hilt.svg" alt="Hilt"/> <img src="assets/badges/room.svg" alt="Room"/> <img src="assets/badges/coroutines.svg" alt="Coroutines / Flow"/> <img src="assets/badges/googleplay.svg" alt="Google Play"/>
 
 **Frontend**
 
-<img src="assets/badges/react.svg" alt="React"/>
-<img src="assets/badges/jquery.svg" alt="jQuery"/>
-<img src="assets/badges/html.svg" alt="HTML5"/>
-<img src="assets/badges/css.svg" alt="CSS"/>
+<img src="assets/badges/react.svg" alt="React"/> <img src="assets/badges/jquery.svg" alt="jQuery"/> <img src="assets/badges/html.svg" alt="HTML5"/> <img src="assets/badges/css.svg" alt="CSS"/>
 
 **Tools**
 
-<img src="assets/badges/git.svg" alt="Git"/>
-<img src="assets/badges/github.svg" alt="GitHub"/>
-<img src="assets/badges/gradle.svg" alt="Gradle"/>
-<img src="assets/badges/androidstudio.svg" alt="Android Studio"/>
-<img src="assets/badges/rider.svg" alt="Rider"/>
-<img src="assets/badges/linux.svg" alt="Linux"/>
+<img src="assets/badges/git.svg" alt="Git"/> <img src="assets/badges/github.svg" alt="GitHub"/> <img src="assets/badges/gradle.svg" alt="Gradle"/> <img src="assets/badges/androidstudio.svg" alt="Android Studio"/> <img src="assets/badges/rider.svg" alt="Rider"/> <img src="assets/badges/linux.svg" alt="Linux"/>
 
 ---
 
