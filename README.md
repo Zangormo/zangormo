@@ -5,7 +5,8 @@
 **Software developer from Riga, Latvia 🇱🇻 — building backends, Android apps and everything in between.**
 
 <a href="https://zangormo.github.io/"><img src="https://img.shields.io/badge/Portfolio-zangormo.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:birjukovs06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/ilja-birjukovs/"><img src="https://img.shields.io/badge/LinkedIn-ilja--birjukovs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:birjukovs06@gmail.com"><img src="https://img.shields.io/badge/birjukovs06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="birjukovs06@gmail.com"/></a>
 
 </div>
 
