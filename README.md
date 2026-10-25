@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1b2130?style=for-the-badge&logo=githubpages&logoColor=8fb3e8)](https://zangormo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2130?style=for-the-badge&logo=linkedin&logoColor=8fb3e8)](https://www.linkedin.com/in/ilja-birjukovs/)
-[![Email](https://img.shields.io/badge/Email-1b2130?style=for-the-badge&logo=gmail&logoColor=8fb3e8)](mailto:birjukovs06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1b2130?style=for-the-badge&logo=gmail&logoColor=8fb3e8&text=birjukovs06@gmail.com)](mailto:birjukovs06@gmail.com)
 
 </div>
 
