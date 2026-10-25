@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8FB3E8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ilja+%F0%9F%91%8B;Backend+Developer+%C2%B7+C%23+%2F+.NET;Android+Developer+%C2%B7+Kotlin;Full-Stack+Developer" alt="Typing SVG" />
 
-**Software developer from Riga, Latvia 🇱🇻 — building backends, Android apps and everything in between.**
+**Software developer from Riga, Latvia — building backends, Android apps and everything in between.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1b2130?style=for-the-badge&logo=githubpages&logoColor=8fb3e8)](https://zangormo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2130?style=for-the-badge&logo=linkedin&logoColor=8fb3e8)](https://www.linkedin.com/in/ilja-birjukovs/)
@@ -16,7 +16,7 @@
 
 - 💼 1.5 years of commercial experience with **C# / .NET**, **Kotlin Android** and **Oracle**
 - 📱 Shipped a production Android app with a .NET backend as the sole developer
-- 🃏 Released my own app, **[Poker Tracker](https://play.google.com/store/apps/details?id=com.zango.pokertracker)**, on Google Play
+- 🃏 Released my own app, **[HomePoker Cashier](https://play.google.com/store/apps/details?id=com.zango.pokertracker)**, on Google Play
 - 🎯 Open to **Backend**, **Android (Kotlin)** and **Full-Stack** roles
 - 🌍 On-site / hybrid in Riga or remote across the EU
 - 🗣️ English · Latvian · Russian
